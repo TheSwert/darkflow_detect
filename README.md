@@ -1,5 +1,5 @@
-# Darflow Object Detection for Homeassistant
-Object detection for Homeassistant using Darkflow
+# Darflow Object Detection for Home Assistant
+Object detection for Home Assistant using Darkflow
 
 ## Prerequisites
 
