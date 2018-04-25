@@ -16,4 +16,4 @@ See the [example](./example.yaml) configuration.
 ## Acknowledgments
 * Authors of the opencv image processing component where I got inspiration for the component
 * Authors of Darkflow
-* Authors of Homeassistant for making an amazing product
+* Authors of Home Assistant for making an amazing product
